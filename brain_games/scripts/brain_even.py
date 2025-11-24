@@ -13,7 +13,7 @@ def play_even_game(name):
     for _ in range(3):
         number = random.randint(1, 100)
         print(f"Question: {number} ")
-        answer = string("Answer: ").lower().strip()
+        answer = string("Your answer: ").lower().strip()
         if is_even(number):
             correct_answer = "yes"
         else:
