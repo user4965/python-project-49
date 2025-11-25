@@ -8,6 +8,10 @@
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=user4965_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=user4965_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=user4965_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=user4965_python-project-49)
 
-### Demo
+### Brain even game demo
 
-[![asciicast](https://asciinema.org/a/w7vsGsB6DmpgZPrCAd1napHS2.svg)](https://asciinema.org/a/w7vsGsB6DmpgZPrCAd1napHS2)
+[![asciicast](https://asciinema.org/a/wVvfu5GVzrpPiMJNgN7icqvOl.svg)](https://asciinema.org/a/wVvfu5GVzrpPiMJNgN7icqvOl)
+
+### Brain calc game demo
+
+[![asciicast](https://asciinema.org/a/cRqMIA5l6b4FFOvofSZ135xfj.svg)](https://asciinema.org/a/cRqMIA5l6b4FFOvofSZ135xfj)

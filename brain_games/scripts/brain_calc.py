@@ -1,7 +1,7 @@
 
 from brain_games.cli import greet, welcome_user
 from brain_games.engine import run_game
-from brain_games.games.even import DESCRIPTION, make_round
+from brain_games.games.calc import DESCRIPTION, make_round
 
 
 def main():
