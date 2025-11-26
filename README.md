@@ -19,3 +19,7 @@
 ### Brain gcd game demo
 
 [![asciicast](https://asciinema.org/a/AsItB2oH7hsvq2ObirIyHwcet.svg)](https://asciinema.org/a/AsItB2oH7hsvq2ObirIyHwcet)
+
+### Brain progression game demo
+
+[![asciicast](https://asciinema.org/a/Nu7uqmVr3hQp0AmSfgcFkdJW2.svg)](https://asciinema.org/a/Nu7uqmVr3hQp0AmSfgcFkdJW2)
