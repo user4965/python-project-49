@@ -14,7 +14,7 @@ def is_prime(n):
 
 
 def make_round():
-    number = random.randint(1, 101)
+    number = random.randint(1, 100)
     if is_prime(number):
         correct_answer = "yes"
     else:
