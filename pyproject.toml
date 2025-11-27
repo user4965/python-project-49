@@ -2,6 +2,9 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "Collection of mini logic games"
+authors = [
+    {name = "Vladimir", email = "mail@gmail.com"}
+]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
