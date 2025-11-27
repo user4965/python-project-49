@@ -2,4 +2,7 @@
 .env
 __pycache__/
 *.pyc
+*.cast
+.DS_Store
+brain_games/.DS_Store
 
