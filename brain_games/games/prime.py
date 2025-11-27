@@ -12,6 +12,7 @@ def is_prime(n):
             return False
     return True
 
+
 def make_round():
     number = random.randint(1, 101)
     if is_prime(number):
