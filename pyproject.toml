@@ -31,12 +31,3 @@ brain-gcd = "brain_games.scripts.brain_gcd:main"
 brain-progression = "brain_games.scripts.brain_progression:main"
 brain-prime = "brain_games.scripts.brain_prime:main"
 
-[tool.ruff]
-line-length = 80
-preview = true
-
-[tool.ruff.lint]
-select = ["E", "F", "I", "C90"]
-
-[tool.ruff.lint.per-file-ignores]
-"__init__.py" = ["F401"]
